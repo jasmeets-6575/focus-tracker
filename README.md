@@ -2,6 +2,8 @@
 
 Focus Timer is an open-source, privacy-first study timer that can auto-run only when the user is present and alert.
 
+<img width="1102" height="800" alt="Screenshot 2026-03-23 at 3 29 15 PM" src="https://github.com/user-attachments/assets/1d409eb2-511a-431b-80a6-b34c9360aa4b" />
+
 ## Why This Project
 - Helps students track real focus time, not just screen time.
 - Reduces manual timer switching with camera-assisted automation.
